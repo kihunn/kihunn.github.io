@@ -1,2 +1,1 @@
-# -kihunn-.github.io
-Research Portfolio (WIP)
+# Research Portfolio (WIP)
